@@ -1,0 +1,141 @@
+[2024-11-18 03:57:35] Accessing: modrinth.com
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 03:57:52.277513 ===
+==================================================
+
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 03:58:37.565895 ===
+==================================================
+
+[2024-11-18 03:58:51] Accessing: modrinth.com
+[2024-11-18 03:58:52] Accessing: ya.ru
+[2024-11-18 03:58:54] Accessing: animego.org
+[2024-11-18 03:58:56] Accessing: wss.animego.org
+[2024-11-18 03:59:06] Accessing: gw.meisterlabs.com
+[2024-11-18 03:59:27] Accessing: gw.meisterlabs.com
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 12:46:57.212217 ===
+==================================================
+
+[2024-11-18 12:47:55] Accessing: normandy.cdn.mozilla.net
+[2024-11-18 12:47:57] Accessing: content-signature-2.cdn.mozilla.net
+[2024-11-18 12:48:03] Accessing: minecraft-inside.ru
+[2024-11-18 12:48:14] Accessing: tiles-cdn.prod.ads.prod.webservices.mozgcp.net
+[2024-11-18 12:48:16] Accessing: chat.openai.com
+[2024-11-18 12:48:16] Accessing: chatgpt.com
+[2024-11-18 12:48:17] Accessing: cdn.oaistatic.com
+[2024-11-18 12:48:18] Accessing: ab.chatgpt.com
+[2024-11-18 12:48:19] Accessing: s.gravatar.com
+[2024-11-18 12:48:20] Accessing: files.oaiusercontent.com
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 12:59:20.093600 ===
+==================================================
+
+[2024-11-18 13:00:07] Accessing: modrinth.com
+[2024-11-18 13:00:46] Accessing: lis-skins.ru
+[2024-11-18 13:00:47] Accessing: lis-skins.com
+[2024-11-18 13:00:49] Accessing: avatars.steamstatic.com
+[2024-11-18 13:00:49] Accessing: code.jivosite.com
+[2024-11-18 13:00:49] Accessing: cdn.growthbook.io
+[2024-11-18 13:00:50] Accessing: code.jivosite.com
+[2024-11-18 13:00:51] Accessing: node-ya-4.jivosite.com
+[2024-11-18 13:00:55] Accessing: code2.jivosite.com
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 13:01:20.705647 ===
+==================================================
+
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 13:02:17.469513 ===
+==================================================
+
+[2024-11-18 13:02:38] Accessing: modrinth.com
+[2024-11-18 13:03:00] Accessing: ru-minecraft.ru
+[2024-11-18 13:03:01] Accessing: img.ru-minecraft.ru
+
+==================================================
+=== Proxy Server Session Started at 2024-11-18 13:10:51.611307 ===
+==================================================
+
+[2024-11-18 13:11:29] Accessing: www.curseforge.com
+[2024-11-18 13:11:29] Accessing: static-beta.curseforge.com
+[2024-11-18 13:11:29] Accessing: content.overwolf.com
+[2024-11-18 13:11:29] Accessing: media.forgecdn.net
+[2024-11-18 13:11:31] Accessing: analyticssec.overwolf.com
+[2024-11-18 13:11:31] Accessing: sb.scorecardresearch.com
+[2024-11-18 13:11:31] Accessing: www.clarity.ms
+[2024-11-18 13:11:32] Accessing: unpkg.com
+[2024-11-18 13:11:32] Accessing: w.clarity.ms
+[2024-11-18 13:11:33] Accessing: bat.bing.com
+[2024-11-18 13:11:34] Accessing: c.clarity.ms
+[2024-11-18 13:11:35] Accessing: c.bing.com
+[2024-11-18 13:11:42] Accessing: i.ytimg.com
+[2024-11-18 13:11:45] Accessing: yt3.ggpht.com
+[2024-11-18 13:11:45] Accessing: sponsor.ajay.app
+[2024-11-18 13:11:45] Accessing: i9.ytimg.com
+
+=== Proxy Server Session Started at 2024-11-24 14:03:11.728290 ===
+==================================================
+
+[2024-11-24 14:03:19] Accessing: incoming.telemetry.mozilla.org
+[2024-11-24 14:03:22] Accessing: steamdb.info
+[2024-11-24 14:03:24] Accessing: shared.cloudflare.steamstatic.com
+[2024-11-24 14:03:24] Accessing: shared.cloudflare.steamstatic.com
+[2024-11-24 14:03:24] Accessing: shared.cloudflare.steamstatic.com
+[2024-11-24 14:03:24] Accessing: shared.cloudflare.steamstatic.com
+[2024-11-24 14:03:24] Accessing: shared.cloudflare.steamstatic.com
+[2024-11-24 14:03:35] Accessing: www.curseforge.com
+[2024-11-24 14:03:36] Accessing: static-beta.curseforge.com
+[2024-11-24 14:03:36] Accessing: static-beta.curseforge.com
+[2024-11-24 14:03:36] Accessing: static-beta.curseforge.com
+[2024-11-24 14:03:36] Accessing: static-beta.curseforge.com
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+[2024-11-24 14:03:37] Accessing: media.forgecdn.net
+[2024-11-24 14:03:37] Accessing: www.googletagmanager.com
+[2024-11-24 14:03:37] Accessing: analyticssec.overwolf.com
+[2024-11-24 14:03:37] Accessing: content.overwolf.com
+[2024-11-24 14:03:38] Accessing: o.pki.goog
+[2024-11-24 14:03:38] Accessing: sb.scorecardresearch.com
+[2024-11-24 14:03:38] Accessing: www.clarity.ms
+[2024-11-24 14:03:39] Accessing: www.google.com
+[2024-11-24 14:03:39] Accessing: unpkg.com
+[2024-11-24 14:03:39] Accessing: bat.bing.com
+[2024-11-24 14:03:39] Accessing: www.redditstatic.com
+[2024-11-24 14:03:40] Accessing: w.clarity.ms
+[2024-11-24 14:03:40] Accessing: www.googletagmanager.com
+[2024-11-24 14:03:40] Accessing: www.redditstatic.com
+[2024-11-24 14:03:40] Accessing: pixel-config.reddit.com
+[2024-11-24 14:03:40] Accessing: oneocsp.microsoft.com
+[2024-11-24 14:03:40] Accessing: alb.reddit.com
+[2024-11-24 14:03:40] Accessing: o.pki.goog
+[2024-11-24 14:03:41] Accessing: c.clarity.ms
+[2024-11-24 14:03:42] Accessing: c.bing.com
+[2024-11-24 14:03:43] Accessing: ru-minecraft.ru
+[2024-11-24 14:03:44] Accessing: cdnjs.cloudflare.com
+[2024-11-24 14:03:46] Accessing: img.ru-minecraft.ru
+[2024-11-24 14:03:46] Accessing: img.ru-minecraft.ru
+[2024-11-24 14:03:46] Accessing: fonts.gstatic.com
+[2024-11-24 14:03:46] Accessing: fonts.gstatic.com
+[2024-11-24 14:03:46] Accessing: fonts.gstatic.com
+[2024-11-24 14:03:46] Accessing: fonts.gstatic.com
+[2024-11-24 14:03:46] Accessing: fonts.gstatic.com
+[2024-11-24 14:03:47] Accessing: o.pki.goog
+[2024-11-24 14:03:47] Accessing: o.pki.goog
+[2024-11-24 14:03:47] Accessing: o.pki.goog
+[2024-11-24 14:03:47] Accessing: www.google-analytics.com
+[2024-11-24 14:03:48] Accessing: www.google.com
+[2024-11-24 14:03:58] Accessing: ru-minecraft.ru
+[2024-11-24 14:03:59] Accessing: www.google-analytics.com
+[2024-11-24 14:04:11] Accessing: push.services.mozilla.com
+[2024-11-24 14:04:11] Accessing: r10.o.lencr.org
+[2024-11-24 14:04:13] Accessing: push.services.mozilla.com
